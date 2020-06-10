@@ -1,1 +1,1 @@
-Basic config for Sping MVC
+Basic config for Spring MVC
